@@ -1,38 +1,37 @@
-## Hi there ! I'm Nic
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
+<h1 align="center">💮 Hi There! Nic!</h1>
+<p align="left">
+<img align="right" alt="minha imagem" width="210" src="https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_400.gif">
+Olá Mundo! Sou uma entusiasta e desenvolvedora Full Stack apaixonada por transformar linhas de código em soluções inovadoras.⭐
+  
+Com uma mente curiosa e sede de aprendizado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar experiências digitais incríveis.💗
 
-### About me
-- Desenvolvedora full-stack
-- Residente de fortaleza- ce
+## 🌐 Connect with me:
 
-##
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niccmaia_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolle-maia-b778322a5)
+[![Discord](https://img.shields.io/badge/Discord-%23333.svg?logo=discord&logoColor=white)](http://discord.com/users/.melozy_) 
+[![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:nicolleluisamaiagurgel@gmail.com)
 
-### skils
-- Proficiencia em JavaScript, HTML & CSS
-- Proficiencia em soluções escalaveis
+## 💻 Language and Tools:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-  <div>
-    <a href="https://github.com/NiccMaia">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiccMaia&theme=dark&show_icons=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccMaia&theme=dark&shadow&show&hide_progress=true"/>
-  </div>
+###
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
 
-##
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=niccmaia&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&locale=en&hide_border=false&show_owner=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niccmaia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- DIV PARA LINKS -->
-<div>
-    <a href="https://www.linkedin.com/in/nicolle-maia-b778322a5/" target="_blank"> <img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.instagram.com/niccmaia_/" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
-    <a href="mailto:nicolleluisamaiagurgel@gmail.com" target="_blank"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
 </div>
