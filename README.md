@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
 <h1 align="center">💮 Hi There! Nic!</h1>
 <p align="left">
-<img align="right" alt="minha imagem" width="180" src="https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_400.gif">
+<img align="right" alt="minha imagem" width="180" src="https://i.pinimg.com/originals/5e/9e/55/5e9e55d066a382dbffe2e7551ed383dc.gif">
 Olá Mundo! Sou uma entusiasta e desenvolvedora Full Stack apaixonada por transformar linhas de código em soluções inovadoras.⭐
   
 Com uma mente curiosa e sede de aprendizado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar experiências digitais incríveis.💗
