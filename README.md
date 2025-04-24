@@ -1,32 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header"/>
-<h1 align="center">💮 Hi There! Nic!</h1>
-<p align="left">
-<img align="right" alt="minha imagem" width="180" src="https://i.pinimg.com/originals/5e/9e/55/5e9e55d066a382dbffe2e7551ed383dc.gif">
-Olá Mundo! Sou uma entusiasta e desenvolvedora Front End apaixonada por transformar linhas de código em soluções inovadoras.⭐
-  
-Com uma mente curiosa e sede de aprendizado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar experiências digitais incríveis.💗
-
-## 🌐 Connect with me:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niccmaia_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolle-maia-b778322a5)
-[![Discord](https://img.shields.io/badge/Discord-%23333.svg?logo=discord&logoColor=white)](http://discord.com/users/.melozy_) 
-[![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:nicolleluisamaiagurgel@gmail.com)
-
-## 💻 Language and Tools:
-<div align="left">
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-</div>
-
-###
-
-
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=niccmaia&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&locale=en&hide_border=false&show_owner=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niccmaia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+<p align="center">Estudante de Sistemas de informação,
+estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<img align="right" alt="minha imagem" width="180" src="https://i.pinimg.com/originals/5e/9e/55/5e9e55d066a382dbffe2e7551ed383dc.gif">
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nicolleluisamaiagurgel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/nicolle-maia-8a465432b)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/niccmaia_/)
+
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=niccmaia&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/niccmaia/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niccmaia/niccmaia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niccmaia/niccmaia/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niccmaia/niccmaia/output/github-contribution-grid-snake.svg">
+</picture>
