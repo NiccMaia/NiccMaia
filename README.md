@@ -41,7 +41,7 @@ estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>⁺⊹ GitHub Stats ⁺⊹</h3>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
