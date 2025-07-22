@@ -58,3 +58,8 @@ estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niccmaia/niccmaia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niccmaia/niccmaia/output/github-contribution-grid-snake-dark.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tassiabarb/tassiabarb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tassiabarb/tassiabarb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tassiabarb/tassiabarb/output/pacman-contribution-graph.svg">
+</picture>
