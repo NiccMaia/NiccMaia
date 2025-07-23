@@ -50,12 +50,15 @@ estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <h3>⁺⊹ GitHub Stats ⁺⊹</h3>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NiccMaia&theme=synthwave"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiccMaia&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
-</a>
+<div align="center">
+  <br>
+  <img 
+   height="170" 
+   style="padding-right: 10px;" 
+   src="https://github-readme-stats.vercel.app/api?username=NiccMaia&show_icons=true&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f" alt="GitHub stats">
+ <img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccMaia&layout=compact&langs_count=16&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
+  
+</div>
 
 
 #
