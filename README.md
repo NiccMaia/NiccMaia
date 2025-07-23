@@ -10,15 +10,17 @@
 
 
 #
+<img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+Tenho 20 anos, sou estudante de 4º semestre de sistemas de informação, apaixonada por design, tecnologia e histórias que moldam o passado e inspiram o futuro.  
+<br>
+Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.
+<br>
 
-<p align="center">Estudante de Sistemas de informação,
-estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<img align="right" alt="minha imagem" width="190" src="https://i.pinimg.com/originals/52/d8/d7/52d8d7d7dd20b858e02fd818ba06c53b.gif">
+<img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" min-width="160px" max-width="200px" width="200px" align="right">
 <h3 align="left"> ⁺ Connect with me! ⁺</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nicolleluisamaiagurgel@gmail.com)
@@ -44,21 +46,17 @@ estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
-#
 
-<div style="text-align: center;" align="center">
   <h3>⁺⊹ GitHub Stats ⁺⊹</h3>
 
 
+<br><br>
 <div align="center">
-  <br>
-  <img 
-   height="170" 
-   style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api?username=NiccMaia&show_icons=true&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f" alt="GitHub stats">
- <img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccMaia&layout=compact&langs_count=16&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
-  
-</div>
+  <a href="https://github.com/Laraewellen">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  </div>
+    <br>
 
 
 #
