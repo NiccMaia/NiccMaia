@@ -52,9 +52,9 @@ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o p
 
 <br><br>
 <div align="center">
-  <a href="https://github.com/Laraewellen">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/NiccMaia">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Niccmaia&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niccmaia&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </div>
     <br>
 
