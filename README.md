@@ -24,16 +24,17 @@ Let’s build user-first experiences that inspire.
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 
-<h3 align="left"> ⁺ Connect with me! ⁺</h3>
-
+<h3 align="center"> ⁺ Connect with me! ⁺</h3>
+<div align="center">
+ 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nicolleluisamaiagurgel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/nicolle-maia-8a465432b)
-<br>[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/niccmaia_/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/niccmaia_/)
+</div>
 
 
-<h3 align="left">⁺ My Stacks ⁺</h3>
-
-<div align="left">
+<h3 align="center"> ⁺ My Stacks ⁺</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
@@ -50,10 +51,8 @@ Let’s build user-first experiences that inspire.
 </div>
 
 
-  <h3>⁺⊹ GitHub Stats ⁺⊹</h3>
+  <h3 align="center">⁺⊹ GitHub Stats ⁺⊹</h3>
 
-
-<br><br>
 <div align="center">
   <a href="https://github.com/NiccMaia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Niccmaia&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
