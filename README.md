@@ -10,10 +10,13 @@
 
 
 #
-<img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-Tenho 20 anos, sou estudante de 4º semestre de sistemas de informação, apaixonada por design, tecnologia e histórias que moldam o passado e inspiram o futuro.  
+<img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" /><h1 align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"> Hello, there! I'm Nic!</h1>
+I’m a 20-year-old Information Systems student in my 4th semester, with a passion for front-end development, UX/UI design, and the stories that connect people to technology.
 <br>
-Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.
+ I thrive at the intersection of creativity and logic — crafting intuitive, accessible, and visually compelling user experiences. Whether it's designing seamless interfaces or coding responsive layouts, I aim to build solutions that feel as good as they look.
+<br>
+ I believe that every pixel and every interaction has meaning, and that thoughtful design can transform how we experience the world.
+Let’s build user-first experiences that inspire.
 <br>
 
 #
