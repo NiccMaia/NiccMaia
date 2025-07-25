@@ -11,7 +11,7 @@
 
 #
 <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" /><h1 align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"> Hello, there! I'm Nic!</h1>
-<img align="right" alt="gif divertido" width="210" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
+<img align="right" alt="gif divertido" width="200" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
 
 I’m a 20-year-old Information Systems student in my 4th semester, with a passion for front-end development, UX/UI design, and the stories that connect people to technology.
 <br>
