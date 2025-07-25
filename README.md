@@ -11,6 +11,8 @@
 
 #
 <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" /><h1 align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"> Hello, there! I'm Nic!</h1>
+<img align="right" alt="gif divertido" width="210" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
+
 I’m a 20-year-old Information Systems student in my 4th semester, with a passion for front-end development, UX/UI design, and the stories that connect people to technology.
 <br>
  I thrive at the intersection of creativity and logic — crafting intuitive, accessible, and visually compelling user experiences. Whether it's designing seamless interfaces or coding responsive layouts, I aim to build solutions that feel as good as they look.
@@ -23,7 +25,7 @@ Let’s build user-first experiences that inspire.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" min-width="160px" max-width="200px" width="200px" align="right">
+
 <h3 align="left"> ⁺ Connect with me! ⁺</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nicolleluisamaiagurgel@gmail.com)
