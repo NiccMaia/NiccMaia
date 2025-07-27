@@ -60,8 +60,8 @@ Let’s build user-first experiences that inspire.✨
   <h3 align="center">⁺⊹ GitHub Stats ⁺⊹</h3>
 
 <div align = "center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NiccMaia&show_icons=true&theme=omni&border_radius=20px"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccMaia&layout=donut&theme=omni&border_radius=20px"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NiccMaia&show_icons=true&theme=midnight-purple&border_radius=20px"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccMaia&layout=donut&theme=midnight-purple&border_radius=20px"/>
 </div>
     <br>
 
