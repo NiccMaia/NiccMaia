@@ -12,7 +12,7 @@
 
 #
 <img src="https://i.pinimg.com/736x/16/40/45/16404585450aaa27b16e2663d0ac3295.jpg" 
-     width="160" 
+     width="150" 
      align="right" 
      style="border-radius: 15px; margin-left: 15px;">
 
