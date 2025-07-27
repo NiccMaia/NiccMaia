@@ -22,7 +22,7 @@ I’m a 20-year-old Information Systems student in my 4th semester, with a passi
 <br>
 Whether it's designing seamless interfaces or coding responsive layouts, I aim to build solutions that feel as good as they look. I believe that every pixel and every interaction has meaning, and that thoughtful design can transform how we experience the world.
 Let’s build user-first experiences that inspire.✨
-<br>
+
 
 #
 
