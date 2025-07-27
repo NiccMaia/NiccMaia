@@ -10,7 +10,7 @@
 
 
 
-<h1 align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"> </h1>
+
 <img align="right" alt="gif divertido" width="170" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif">
 
 I’m a 20-year-old Information Systems student in my 4th semester, with a passion for front-end development, UX/UI design, and the stories that connect people to technology.
@@ -53,11 +53,10 @@ Let’s build user-first experiences that inspire.
 
   <h3 align="center">⁺⊹ GitHub Stats ⁺⊹</h3>
 
-<div align="center">
-  <a href="https://github.com/NiccMaia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Niccmaia&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niccmaia&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  </div>
+<div align = "center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NiccMaia&show_icons=true&theme=jolly&border_radius=20px"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccMaia&layout=donut&theme=jolly&border_radius=20px"/>
+</div>
     <br>
 
 
